@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React_AvatarApp/static/css/main.029f92a5.chunk.css",
+    "main.js": "/React_AvatarApp/static/js/main.73639c5d.chunk.js",
+    "main.js.map": "/React_AvatarApp/static/js/main.73639c5d.chunk.js.map",
+    "runtime-main.js": "/React_AvatarApp/static/js/runtime-main.03b3a10c.js",
+    "runtime-main.js.map": "/React_AvatarApp/static/js/runtime-main.03b3a10c.js.map",
+    "static/css/2.31461e4f.chunk.css": "/React_AvatarApp/static/css/2.31461e4f.chunk.css",
+    "static/js/2.51bb2df7.chunk.js": "/React_AvatarApp/static/js/2.51bb2df7.chunk.js",
+    "static/js/2.51bb2df7.chunk.js.map": "/React_AvatarApp/static/js/2.51bb2df7.chunk.js.map",
+    "static/js/3.c35c1548.chunk.js": "/React_AvatarApp/static/js/3.c35c1548.chunk.js",
+    "static/js/3.c35c1548.chunk.js.map": "/React_AvatarApp/static/js/3.c35c1548.chunk.js.map",
+    "index.html": "/React_AvatarApp/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/React_AvatarApp/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.029f92a5.chunk.css.map": "/React_AvatarApp/static/css/main.029f92a5.chunk.css.map",
+    "static/js/2.51bb2df7.chunk.js.LICENSE.txt": "/React_AvatarApp/static/js/2.51bb2df7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03b3a10c.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.51bb2df7.chunk.js",
+    "static/css/main.029f92a5.chunk.css",
+    "static/js/main.73639c5d.chunk.js"
+  ]
+}
